@@ -1,0 +1,15 @@
+1. Conditional Statements :
+
+a. if
+b. else if
+c. else
+
+2. Switch Statements :
+
+a. switch (for multiple condition)
+
+3. Loops :
+
+a. for
+b. while
+c. do...while

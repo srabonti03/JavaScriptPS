@@ -1,0 +1,7 @@
+String Creation: Using quotes to create strings.
+
+
+String Methods:
+a. length, toUpperCase, toLowerCase
+b. charAt, substring, slice, split
+c. indexOf, includes

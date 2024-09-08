@@ -1,0 +1,6 @@
+Types of operators :
+
+1. Arithmetic Operators (+, -, *, %)
+2. Comparison Operators (==, ===, !=, !==, >, <, >=, <=)
+3. Logical Operators (&&, ||, !)
+4. Assignment Operators (=, +=, -=, *=, /=)

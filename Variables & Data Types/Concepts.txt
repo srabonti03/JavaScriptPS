@@ -1,0 +1,20 @@
+Variables :
+
+1. Var
+2. let
+3. const
+
+Data Types :
+
+1. Primitive Types :
+
+a. String
+b. Number
+c. Boolean
+d. undefined
+e. Null
+f. Symbol
+
+2. Complex Types :
+
+a. object

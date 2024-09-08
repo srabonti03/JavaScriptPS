@@ -1,0 +1,11 @@
+a. For Loop:
+
+Loop through a block of code a number of Times.
+
+b. While Loop:
+
+Loop through a block of code while a specified condition is true.
+
+c. Do...While Loop:
+
+Loop through a block of code once, and then repeat as long as a specified condition is true.

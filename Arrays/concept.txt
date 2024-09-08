@@ -1,0 +1,7 @@
+1. Creating Arrays: Using [] to create arrays,
+2. Accessing Elements: Accessing elements using index.
+
+
+Arrays Methods:
+a. push, pop, shift, unshift,
+b. map, filter, reduce.

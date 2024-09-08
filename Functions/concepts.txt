@@ -1,0 +1,9 @@
+Function Declaration: Using the function keyword to declare a function.
+
+Function Parameters and Arguments: Passing data to functions.
+
+Return Values: Returning a value from a function.
+
+Anonymous Functions: Functions without a name.
+
+Arrow Functions: ES6 syntax for writing functions.
